@@ -1,0 +1,72 @@
+{
+  "fairs": [
+    {
+      "id": 1,
+      "name": "ZPE Nord",
+      "logo": "zp-nord-logo.png", 
+      "cover": "zp-nord-cover.jpg", 
+      "booth_number": "A12",
+      "start_date": "2025-03-15",
+      "end_date": "2025-03-17",
+      "address": {
+        "street": "Messeallee",
+        "house_number": "1",
+        "city": "Hamburg",
+        "zip": "20095",
+        "state": "Hamburg"
+      },
+      "website": "https://www.zukunft-personal.com/de/expo-events/zp-nord/"
+    },
+    {
+      "id": 2,
+      "name": "ZPE Süd",
+      "logo": "zp-sued-logo.png", 
+      "cover": "zp-sued-cover.jpg",
+      "booth_number": "B24",
+      "start_date": "2025-06-10",
+      "end_date": "2025-06-12",
+      "address": {
+        "street": "Messeplatz",
+        "house_number": "2",
+        "city": "München",
+        "zip": "80331",
+        "state": "Bayern"
+      },
+      "website": "https://www.zukunft-personal.com/de/expo-events/zp-sued/"
+    },
+    {
+      "id": 3,
+      "name": "ZPE Europe",
+      "logo": "zp-europe-logo.png", 
+      "cover": "zp-europe-cover.png", 
+      "booth_number": "C30",
+      "start_date": "2025-09-05",
+      "end_date": "2025-09-07",
+      "address": {
+        "street": "Europastraße",
+        "house_number": "3",
+        "city": "Berlin",
+        "zip": "10115",
+        "state": "Berlin"
+      },
+      "website": "https://www.zukunft-personal.com/de/expo-events/zp-europe/"
+    },
+    {
+      "id": 4,
+      "name": "Copetri",
+      "logo": "copetri-logo.png", 
+      "cover": "copetri-cover.jpg", 
+      "booth_number": "D15",
+      "start_date": "2025-11-20",
+      "end_date": "2025-11-22",
+      "address": {
+        "street": "Messeweg",
+        "house_number": "4",
+        "city": "Frankfurt am Main",
+        "zip": "60327",
+        "state": "Hessen"
+      },
+      "website": "https://www.copetri.com/"
+    }
+  ]
+}
